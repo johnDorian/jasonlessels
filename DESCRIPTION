@@ -6,3 +6,4 @@ Description: This package presents the resume of Jason Lessels
 Depends: R (>= 3.2.0)
 License: GPL >= 2
 LazyData: true
+VignetteBuilder: knitr
