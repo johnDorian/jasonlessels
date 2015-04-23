@@ -1,7 +1,7 @@
 #'
-#'Work Experiance
+#'Employment
 #'
-#'This function lists my work experiance.
+#'This function lists my work experiance in markdown format.
 #'
 #'@export
 #'

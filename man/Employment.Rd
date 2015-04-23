@@ -2,11 +2,11 @@
 % Please edit documentation in R/employment.R
 \name{Employment}
 \alias{Employment}
-\title{Work Experiance}
+\title{Employment}
 \usage{
 Employment()
 }
 \description{
-This function lists my work experiance.
+This function lists my work experiance in markdown format.
 }
 
