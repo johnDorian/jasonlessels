@@ -15,33 +15,36 @@ vignette: |
 ---
 
 
-
-# Reproducing this resume
 ```{r, eval = FALSE}
+# To install and reproduce this resume use:
 library(devtools)
 install_github("johnDorian/jasonlessels")
 library(jasonlessels)
+# For more information...
+help(package = jasonlessels)
+# or to view this resume
+vignette(topic = "resume", package = "jasonlessels")
+# Now for the actual resume...
+Employment()
 ```
 
 ```{r, echo = FALSE, include=FALSE}
 library(jasonlessels)
+
 ```
 
-
-
-```{r, results='asis'}
+```{r, results='asis', echo=FALSE}
 Employment()
 ```
-
-
 
 ```{r, results='asis'}
 Education()
 ```
 
-
-
 ```{r, results='asis'}
 Skills()
 ```
 
+```{r, results='asis'}
+R_packages()
+```

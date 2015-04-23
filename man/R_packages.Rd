@@ -7,6 +7,6 @@
 R_packages()
 }
 \description{
-This function lists my education in markdown format.
+This function lists my R packages in markdown format.
 }
 
