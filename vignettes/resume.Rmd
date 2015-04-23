@@ -1,11 +1,22 @@
-<!--
-%\VignetteEngine{knitr::knitr}
-%\VignetteIndexEntry{Jason Lessels}
--->
+---
+title: "An introduction to Jason Lessels"
+author: "Jason Lessels"
+date: '`r Sys.Date()`'
+output:
+  pdf_document:
+    toc: no
+  knitr:::html_vignette:
+    number_sections: no
+    toc: no
+vignette: |
+  %\VignetteIndexEntry{An introduction to Jason Lessels}
+  %\VignetteEngine{knitr::rmarkdown_notangle}
+  
+---
 
-# An introduction to Jason Lessels 
 
 
+# Reproducing this resume
 ```{r, eval = FALSE}
 library(devtools)
 install_github("johnDorian/jasonlessels")
@@ -16,13 +27,19 @@ library(jasonlessels)
 library(jasonlessels)
 ```
 
+
+
 ```{r, results='asis'}
 Employment()
 ```
 
+
+
 ```{r, results='asis'}
 Education()
 ```
+
+
 
 ```{r, results='asis'}
 Skills()
