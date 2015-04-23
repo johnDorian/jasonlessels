@@ -3,4 +3,5 @@
 export(Education)
 export(Employment)
 export(R_packages)
+export(Refereed_papers)
 export(Skills)
