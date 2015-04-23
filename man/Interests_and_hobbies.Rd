@@ -7,6 +7,6 @@
 Interests_and_hobbies()
 }
 \description{
-This function lists my interests and hobbiesin markdown format.
+This function lists my interests and hobbies in markdown format.
 }
 

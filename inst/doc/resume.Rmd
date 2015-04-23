@@ -1,7 +1,7 @@
 ---
-title: "An introduction to Jason Lessels"
-author: "Jason Lessels"
-date: '`r Sys.Date()`'
+title: "Jason Lessels"
+author: "54 Merkland Rd East, Aberdeen AB24 5PZ, UK"
+date: "+44 7803740363"
 output:
   pdf_document:
     toc: no
@@ -25,7 +25,6 @@ help(package = jasonlessels)
 # or to view this resume
 vignette(topic = "resume", package = "jasonlessels")
 # Now for the actual resume...
-Employment()
 ```
 
 ```{r, echo = FALSE, include=FALSE}
@@ -33,26 +32,41 @@ library(jasonlessels)
 
 ```
 
-```{r, results='asis', echo=FALSE}
+
+
+```{r, results='asis', echo=TRUE}
 Employment()
+
 ```
+
+
 
 ```{r, results='asis'}
 Education()
 ```
 
+
+
 ```{r, results='asis'}
-Skills()
+Software_and_programming_languages()
 ```
+
 
 ```{r, results='asis'}
 R_packages()
 ```
 
-```{r, results='asis'}
-Refereed_papers()
-```
 
 ```{r, results='asis'}
-Conference_presentations()
+Selected_papers_and_conferences()
+```
+
+
+```{r, results='asis'}
+Interests_and_hobbies()
+```
+
+
+```{r, results='asis'}
+Referees()
 ```
