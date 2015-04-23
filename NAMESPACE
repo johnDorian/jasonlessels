@@ -3,6 +3,7 @@
 export(Conference_presentations)
 export(Education)
 export(Employment)
+export(Interests_and_hobbies)
 export(R_packages)
 export(Refereed_papers)
 export(Skills)
