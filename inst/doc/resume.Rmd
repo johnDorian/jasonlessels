@@ -20,10 +20,10 @@ vignette: |
 library(devtools)
 install_github("johnDorian/jasonlessels")
 library(jasonlessels)
+# And now load this resume
+vignette(topic = "resume", package = "jasonlessels")
 # For more information...
 help(package = jasonlessels)
-# or to view this resume
-vignette(topic = "resume", package = "jasonlessels")
 # Now for the actual resume...
 ```
 
