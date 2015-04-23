@@ -2,4 +2,5 @@
 
 export(Education)
 export(Employment)
+export(R_packages)
 export(Skills)
