@@ -2,7 +2,7 @@
 % Please edit documentation in R/conferences.R
 \name{Conference_presentations}
 \alias{Conference_presentations}
-\title{Refereed Papers}
+\title{Conference presentations}
 \usage{
 Conference_presentations()
 }
