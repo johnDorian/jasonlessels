@@ -5,6 +5,7 @@
 
 # An introduction to Jason Lessels 
 
+
 ```{r, eval = FALSE}
 library(devtools)
 install_github("johnDorian/jasonlessels")
@@ -19,7 +20,11 @@ library(jasonlessels)
 Employment()
 ```
 
-
 ```{r, results='asis'}
 Education()
 ```
+
+```{r, results='asis'}
+Skills()
+```
+
