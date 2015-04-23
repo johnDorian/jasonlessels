@@ -1,5 +1,5 @@
 #'
-#'Refereed Papers
+#'Conference presentations
 #'
 #'This function lists the conferences I have been presented at in markdown format.
 #'
