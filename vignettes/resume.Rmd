@@ -53,3 +53,6 @@ R_packages()
 Refereed_papers()
 ```
 
+```{r, results='asis'}
+Conference_presentations()
+```
