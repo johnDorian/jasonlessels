@@ -48,3 +48,8 @@ Skills()
 ```{r, results='asis'}
 R_packages()
 ```
+
+```{r, results='asis'}
+Refereed_papers()
+```
+
