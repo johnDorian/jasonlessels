@@ -16,15 +16,15 @@ vignette: |
 
 
 ```{r, eval = FALSE}
-# To install and reproduce this resume use:
+# To install and read this resume within R:
 library(devtools)
 install_github("johnDorian/jasonlessels")
 library(jasonlessels)
-# And now load this resume
-vignette(topic = "resume", package = "jasonlessels")
+# and then load the resume
+vignette(topic = "resume")
 # For more information...
 help(package = jasonlessels)
-# Now for the actual resume...
+# Or you can continue reading below...
 ```
 
 ```{r, echo = FALSE, include=FALSE}
