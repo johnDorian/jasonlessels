@@ -1,7 +1,7 @@
 ---
 title: "Jason Lessels"
 author: "54 Merkland Rd East, Aberdeen AB24 5PZ, UK"
-date: "+44 7803740363"
+date: "Tel: +44 7803740363    Email:jlessels@gmail.com"
 output:
   pdf_document:
     toc: no
@@ -21,10 +21,10 @@ library(devtools)
 install_github("johnDorian/jasonlessels")
 library(jasonlessels)
 # and then load the resume
-vignette(topic = "resume")
+vignette("resume")
 # For more information...
 help(package = jasonlessels)
-# Or you can continue reading below...
+# or you can continue reading below...
 ```
 
 ```{r, echo = FALSE, include=FALSE}
