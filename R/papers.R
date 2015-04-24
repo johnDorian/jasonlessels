@@ -13,7 +13,7 @@ Selected_papers_and_conferences <- function(){
   cat("\n\n")
   cat("**Using isotopes to investigate hydrological flow pathways and sources in a remote Arctic catchment**, presented at the European Geophysical Union, General Assembly,  2014")
   cat("\n\n")
-  cat("**Applying geospatial techniques to temporal data**, presented at the useR!,  2011")
+  cat("**Applying geospatial techniques to temporal data**, presented at useR!,  2011")
   cat("\n\n")
   cat("**Generalised linear mixed models for predicting the probability of exceeding water quality guidelines**, presented at the European Geophysical Union, General Assembly, 2011")
 }
