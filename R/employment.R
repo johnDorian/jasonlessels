@@ -8,7 +8,7 @@
 Employment <- function(){
   cat("### 2014 - Present, Data Analyst, Firetrail Events")
   cat("\n\n")
-  cat("Data management, sales reporting, competitor analysis")
+  cat("Undertake data management, sales reporting, and competitor analysis.")
   cat("\n\n")
   cat("### 2013 - Present, Post Doctoral Research Fellow, University of Aberdeen")
   cat("\n\n")
